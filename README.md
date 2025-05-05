@@ -1,4 +1,6 @@
-# eSIM-Router
+# eSIM-Modem
+a portable Modem/Router with eSIM support!
+
 sch:
 - https://www.youtube.com/results?search_query=esim+hotspot
 - https://www.youtube.com/results?search_query=esim+modem
